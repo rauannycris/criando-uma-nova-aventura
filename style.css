@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+    color: black;
+    font-family:  font-family: "Libertinus Serif Display", system-ui;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button{
+    background-color: cornflowerblue;
+    color: aliceblue;
+    font-family:  font-family: "Libertinus Serif Display", system-ui;
+}
